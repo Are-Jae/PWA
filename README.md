@@ -37,6 +37,7 @@ THEN I should have proper build scripts for a webpack application
 
 
 ## Installation 
-
+n/a
 
 ## Tutorial 
+This app is not functional, there is no tutorial to provide.
